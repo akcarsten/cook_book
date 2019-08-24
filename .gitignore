@@ -8,6 +8,9 @@ old_notebooks
 raw
 test.*
 output.*
+char
+clustered
+testing
 
 
 # Byte-compiled / optimized / DLL files
