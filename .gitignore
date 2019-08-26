@@ -11,7 +11,8 @@ output.*
 char
 clustered
 testing
-
+left_overs
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
