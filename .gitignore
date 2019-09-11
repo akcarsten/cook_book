@@ -12,7 +12,7 @@ char
 clustered
 testing
 left_overs
-data
+data*
 results
 
 # Byte-compiled / optimized / DLL files
