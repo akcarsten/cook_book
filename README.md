@@ -303,7 +303,8 @@ Some other clusters however do not look as clean as the above.
 <br>
 ![Overview of extracted images](./images/readme/03.png)
 <br>
-So now unfortunately there is no automated way forward anymore. The next step is to clean up the clusters manually. This means moving the misclassified images into the correct folders and merging folders with identical letters. After this step we also should name the folders according to their content. Below is an example of how it should look like. As you can see there are usually upper- and lower-case letters found in the images. Since we cannot have folders with the same name we will use _ to denote the upper-case letters. Also, there are some cases in which two letters become one. For example, the letter sequence "ck" is not separated by any white space and will always be detected by the detection algorithm as one contour so we will create a folder called "ck" to account for this.
+So now unfortunately there is no automated way forward anymore. The next step is to clean up the clusters manually. This means moving the misclassified images into the correct folders and merging folders with identical letters. After this step we also should name the folders according to their content. Below is an example of how it should look like. As you can see there are usually upper- and lower-case letters found in the images. Since we cannot have folders with the same name we will use _ to denote the upper-case letters. Also, there are some cases in which two letters become one. For example, the letter sequence "ck" is not separated by any white space and will always be detected by the detection algorithm as one contour so we will create a folder called "ck" to account for this. <br>
+**Note: We will create all of this folders within a folder called "data".**
 <br>
 ![Overview of extracted images](./images/readme/04.png)
 <br>
