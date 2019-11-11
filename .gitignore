@@ -2,7 +2,10 @@
 convert_data
 dataset
 development
-images
+images/figures
+images/initial
+images/.ipynb_checkpoints
+images/notebook_02
 mnist
 old_notebooks
 raw
